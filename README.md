@@ -2,7 +2,17 @@
 
 ## Overview
 
-The project has explored several scenarios with real-world applicability.
+In the project, several scenarios have been applied that can potentially be used in real-world cases.
+
+## Build and Run:
+
+1. Build the airflowpython-docker image:
+
+   docker build -t airflowpython-docker .
+
+2. Start the Docker containers:
+
+   docker-compose up -d
 
 ## Scenarios:
 
